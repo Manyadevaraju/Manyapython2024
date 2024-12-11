@@ -1,0 +1,7 @@
+x = 5
+if x > 3:
+    print("x is positive and greater than 3")
+elif x < 3:
+    print("x is negative and less than 3")
+else:
+    print("x is positive or negative")
