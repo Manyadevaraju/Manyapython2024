@@ -1,0 +1,5 @@
+num=int(input("enter a number"))
+if num>=100:
+   print("the number in between 100 and 200")
+else:
+    print("the number is in between 100 and 200")
