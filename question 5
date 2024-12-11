@@ -1,0 +1,5 @@
+num=int(input("enter a number"))
+if num%5==0:
+  print("the value is divisable by 5")
+else:
+  print("the value is not divisable by 5")
