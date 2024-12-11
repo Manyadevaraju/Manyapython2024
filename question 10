@@ -1,0 +1,5 @@
+num=int(input("enter the number"))
+if num>200 and num>600:
+  print("the number is greater than 200 and 600")
+else:
+  print("the number is less than 200")
