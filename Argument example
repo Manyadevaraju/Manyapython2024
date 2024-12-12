@@ -1,0 +1,4 @@
+def manya(**numbers):
+  for key, value in numbers.items():
+    print(f"{key}: {value}")
+manya(name="manya", age=18, city="new york")
