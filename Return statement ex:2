@@ -1,0 +1,2 @@
+result = square(18)
+print("square is:",result)
