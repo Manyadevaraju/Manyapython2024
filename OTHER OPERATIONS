@@ -1,0 +1,11 @@
+LEN
+len(a)
+
+SORT
+a.sort()
+a
+
+REVERSE
+a.sort()
+a.reverse()
+a
