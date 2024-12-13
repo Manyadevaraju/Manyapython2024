@@ -1,0 +1,23 @@
+ACCESSING:
+print(student["name"])
+
+MODIFYING
+student["age"]=19
+print(student)
+
+ADDING
+student={
+    'name':'manya',
+    'age':19,
+    'college':'shridevi'}
+print(student)
+
+student["grade"]="a"
+student
+
+REMOVING
+student={
+    'name':'manya',
+    'age':19,
+    'college':'shridevi'}
+print(student)
