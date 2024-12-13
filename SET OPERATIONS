@@ -1,0 +1,22 @@
+ADDING ITEMS:
+Numbers.add(6)
+numbers
+
+REMOVING ITEMS:
+numbers.remove(3)
+numbers
+
+SERT OPERATIONS
+
+UNION:
+set1={1,2,3,4,5}
+set2={6,7,8,9,10}
+set1|set2
+
+INTERSECTION:
+set1={1,2,3,4,5}
+set2={1,2,6,9}
+set1&set2
+
+DIFFERENCE:
+set1-set2
