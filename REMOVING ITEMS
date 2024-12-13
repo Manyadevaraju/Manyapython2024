@@ -1,0 +1,7 @@
+REMOVE
+a.remove(2)
+a
+
+POP
+a.pop(2)
+a
