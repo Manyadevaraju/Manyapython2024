@@ -1,0 +1,4 @@
+APPEND
+
+a.append(22)
+a
