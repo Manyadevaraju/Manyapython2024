@@ -1,0 +1,8 @@
+ACCESSING ITEMS
+print(a[0])
+print(a[2])
+
+MODIFYING ITEMS
+
+print(a[0])
+print(a[2])
