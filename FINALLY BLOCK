@@ -1,0 +1,6 @@
+try:
+  file=open("/content/MANYA.txt","r")
+except fileNotFoundError:
+  print("file not found.")
+finally:
+  print("Execution complete.")
