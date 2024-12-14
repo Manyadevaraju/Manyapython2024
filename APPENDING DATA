@@ -1,0 +1,6 @@
+with open("/content/MANYA.txt","a") as file:
+  file.write("let's learn file handling.\n")
+
+
+with open("/content/MANYA.txt","r") as file:
+  print(file.read())
