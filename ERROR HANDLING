@@ -1,0 +1,7 @@
+try:
+  num=int(input("enter a number:"))
+  print(num)
+except zerodivisionerror:
+  print("you cannot divide by zero")
+except valueerror:
+  print("invaid input! please enter a number.")
